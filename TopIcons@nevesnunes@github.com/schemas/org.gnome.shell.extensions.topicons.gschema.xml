@@ -1,0 +1,12 @@
+<schemalist>
+  <schema id="org.gnome.shell.extensions.topicons" path="/org/gnome/shell/extensions/topicons/">
+    <key name="icon-saturation" type="b">
+      <default>true</default>
+      <summary>Saturation</summary>
+    </key>
+    <key name="icon-opacity" type="b">
+      <default>true</default>
+      <summary>Opacity</summary>
+    </key>
+  </schema>
+</schemalist>
